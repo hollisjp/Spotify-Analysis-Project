@@ -33,19 +33,7 @@ df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -245,7 +233,7 @@ plt.show()
 
 
     
-![png](Spottyfly_files/Spottyfly_13_0.png)
+![png](figs_for_md/Spottyfly_13_0.png)
     
 
 
@@ -1022,7 +1010,7 @@ plt.show()
 
 
     
-![png](Spottyfly_files/Spottyfly_60_0.png)
+![png](figs_for_md/Spottyfly_60_0.png)
     
 
 
